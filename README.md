@@ -35,5 +35,6 @@
 - Maintainer of [stblr](https://github.com/JulianStiebler/stblr)
   - A fully featured Flask blueprint-factory web-app template with basic security principles and a modern data handling approach. 
 - Contributed a accurate [Pi-Generator Algorithm](https://github.com/TheAlgorithms/Python/commit/11582943a555ae3b6a22938df6d3645b0327562e) to TheAlgorithms
-- Collaborator on [SavefileEditor for PokeRoGue (Online)](https://github.com/claudiunderthehood/OnlineRogueEditor)
-- Collaborator on [SavefileEditor for PokeRoGue (Offline)](https://github.com/claudiunderthehood/OfflineRogueEditor)
+- Maintainer of [SavefileEditor for PokeRoGue (Online)](https://github.com/rogueEdit/OnlineRogueEditor)
+- Maintainer of [SavefileEditor for PokeRoGue (Offline)](https://github.com/rogueEdit/OfflineRogueEditor)
+- Co-owner of [RogueEdit](https://github.com/rogueEdit)
