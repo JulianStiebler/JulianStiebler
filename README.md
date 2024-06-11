@@ -35,3 +35,4 @@
 - Maintainer of [stblr](https://github.com/JulianStiebler/stblr)
   - A fully featured Flask blueprint-factory web-app template with basic security principles and a modern data handling approach. 
 - Contributed a accurate [Pi-Generator Algorithm](https://github.com/TheAlgorithms/Python/commit/11582943a555ae3b6a22938df6d3645b0327562e) to TheAlgorithms
+- Creator of stblrDash - a fully featured Flask Dashboard to [redacted] [soon]
