@@ -32,6 +32,17 @@
 
 
 # GitHub History
-- Maintainer of [stblr](https://github.com/JulianStiebler/PythonFlaskDashboard) - currently private.
-  - A fully featured Flask blueprint-factory web-app template with basic security principles and a modern data handling approach. 
-- Contributed a accurate [Pi-Generator Algorithm](https://github.com/TheAlgorithms/Python/commit/11582943a555ae3b6a22938df6d3645b0327562e) to TheAlgorithms
+- [stblr](https://github.com/JulianStiebler/PythonFlaskDashboard) | Creator & Maintainer - discontinued
+  - A fully featured Flask blueprint-factory web-app template with basic security principles and a modern data handling approach.
+---
+- Contributed a accurate Pi-Generator for [The Algorithms](https://github.com/TheAlgorithms)
+  - [The generator itself](https://github.com/TheAlgorithms/Python/blob/master/maths/pi_generator.py) | [Commit History](https://github.com/TheAlgorithms/Python/commits/master/maths/pi_generator.py)
+---
+-  [pyRogue](https://github.com/RogueEdit/pyRogue) | Creator & Maintainer
+   - A fully completed save-editor created for educational purpose based on reverse engineering an open-source game called PokeRogue
+---
+- [pokeGG](https://github.com/JulianStiebler/PokeGG/) | Creator & Maintainer - Work in progress
+  - The most comprehensive Pokemon-Dex you ever seen! Gotta catch all data!
+---
+- [secureRequests](https://github.com/JulianStiebler/secureRequests)  | Creator & Maintainer
+  - Trying to make good security practices on requests more widespread. Our world we live in assumes security as granted, which it isn't.
