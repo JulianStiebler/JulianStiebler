@@ -41,7 +41,7 @@
 -  [pyRogue](https://github.com/RogueEdit/pyRogue) | Creator & Maintainer
    - A fully completed save-editor created for educational purpose based on reverse engineering an open-source game called PokeRogue
 ---
-- [pokeGG](https://github.com/JulianStiebler/PokeGG/) | Creator & Maintainer - Work in progress
+- [pokeGG](https://github.com/JulianStiebler/PokeGG/) | Creator & Maintainer - Work in progress (currently Priate)
   - The most comprehensive Pokemon-Dex you ever seen! Gotta catch all data!
 ---
 - [secureRequests](https://github.com/JulianStiebler/secureRequests)  | Creator & Maintainer
