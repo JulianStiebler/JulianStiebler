@@ -8,7 +8,6 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="BootsTrap" width="40" height="40"/></a>
 
-## Python
 <a href="https://numpy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/></a>
 <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
 <a href="https://www.sqlalchemy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy" width="40" height="40"/></a>
@@ -16,33 +15,36 @@
 <a href="https://www.json.org/json-en.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" alt="JSON" width="40" height="40"/></a>
 <a href="https://www.java.com/de/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
 
-## Game Development
 <a href="https://www.unrealengine.com/de" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="UnrealEngine5" width="40" height="40"/></a>
 <a href="https://www.blender.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/></a>
 
-## Miscelaneous
 <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
 <a href="https://isocpp.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
 <a href="https://learn.microsoft.com/de-de/dotnet/visual-basic/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualbasic/visualbasic-original.svg" alt="VisualBasic" width="40" height="40"/></a>
 <a href="https://yaml.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yaml/yaml-original.svg" alt="YAML" width="40" height="40"/></a>
 
+<details open> 
+  <summary><h2>📘 My Github Projects</h2></summary>
 
+  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+  <p align="left">
+    <a href="https://github.com/JulianStiebler/secureRequests"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JulianStiebler&repo=secureRequests&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="secureRequests"></a>
+    <a href="https://github.com/rogueEdit/pyRogue"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rogueEdit&repo=pyRogue&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="pyRogue"></a>
+    <!-- <a href="https://github.com/JulianStiebler/pokeGG"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=JulianStiebler&repo=pokeGG&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="pokeGG"></a> -->
+    <a href="https://github.com/JulianStiebler/PythonFlaskDashboard"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JulianStiebler&repo=PythonFlaskDashboard&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="PythonFlaskDashboard"></a>
+  </p>
 
+  <a href="https://github.com/JulianStiebler?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</details>
 
+<details open> 
+  <summary><h2>📘 My Contributions</h2></summary>
 
-# GitHub History
-- [stblr](https://github.com/JulianStiebler/PythonFlaskDashboard) | Creator & Maintainer - discontinued
-  - A fully featured Flask blueprint-factory web-app template with basic security principles and a modern data handling approach.
----
-- Contributed a accurate Pi-Generator for [The Algorithms](https://github.com/TheAlgorithms)
-  - [The generator itself](https://github.com/TheAlgorithms/Python/blob/master/maths/pi_generator.py) | [Commit History](https://github.com/TheAlgorithms/Python/commits/master/maths/pi_generator.py)
----
--  [pyRogue](https://github.com/RogueEdit/pyRogue) | Creator & Maintainer
-   - A fully completed save-editor created for educational purpose based on reverse engineering an open-source game called PokeRogue
----
-- [pokeGG](https://github.com/JulianStiebler/PokeGG/) | Creator & Maintainer - Work in progress (currently Priate)
-  - The most comprehensive Pokemon-Dex you ever seen! Gotta catch all data!
----
-- [secureRequests](https://github.com/JulianStiebler/secureRequests)  | Creator & Maintainer
-  - Trying to make good security practices on requests more widespread. Our world we live in assumes security as granted, which it isn't.
+  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+  <p align="left">
+    <a href="https://github.com/TheAlgorithms/Python/blob/master/maths/pi_generator.py"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TheAlgorithms&repo=Python&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="secureRequests"></a>
+  </p>
+</details>
