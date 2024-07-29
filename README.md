@@ -46,4 +46,4 @@
   </p>
 </details>
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianstiebler&show_icons=true&theme=transparent)
