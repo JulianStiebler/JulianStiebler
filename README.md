@@ -48,3 +48,6 @@
     <a href="https://github.com/TheAlgorithms/Python/blob/master/maths/pi_generator.py"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TheAlgorithms&repo=Python&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="secureRequests"></a>
   </p>
 </details>
+
+![stblr's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianstiebler&show_icons=true&theme=transparent)
+
