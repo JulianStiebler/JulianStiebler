@@ -1,4 +1,6 @@
-# 🛠 Language experiences & skills
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+World!;Welcome+to+my+profile&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
 
 <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
 <a href="https://github.com/features/actions" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="40" height="40"/></a>
@@ -49,5 +51,4 @@
   </p>
 </details>
 
-![stblr's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianstiebler&show_icons=true&theme=transparent)
 
