@@ -1,6 +1,6 @@
 <p align="center">
   <!-- https://github.com/DenverCoder1/readme-typing-svg -->
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+World!;Welcome+to+my+profile&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+World!;Welcome+to+my+Profile+:)&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
   
   <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
   <a href="https://github.com/features/actions" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="40" height="40"/></a>
@@ -32,7 +32,7 @@
   <p align="left">
     <a href="https://github.com/JulianStiebler/secureRequests"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JulianStiebler&repo=secureRequests&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="secureRequests"></a>
     <a href="https://github.com/rogueEdit/pyRogue"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rogueEdit&repo=pyRogue&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="pyRogue"></a>
-    <!-- <a href="https://github.com/JulianStiebler/pokeGG"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=JulianStiebler&repo=pokeGG&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="pokeGG"></a> -->
+    <a href="https://github.com/JulianStiebler/GameSaveVault"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JulianStiebler&repo=GameSaveVault&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Game Save Vault"></a>
     <a href="https://github.com/JulianStiebler/PythonFlaskDashboard"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JulianStiebler&repo=PythonFlaskDashboard&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="PythonFlaskDashboard"></a>
   </p>
 
